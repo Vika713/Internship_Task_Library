@@ -1,0 +1,24 @@
+[
+  {
+    "Barcode": "test1",
+    "Name": "test1",
+    "Author": "test1",
+    "Category": "test1",
+    "Language": "test1",
+    "PublicationDate": "2020-01-01T00:00:00",
+    "ISBN": "test1",
+    "Borrower": null,
+    "DueDate": null
+  },
+  {
+    "Barcode": "test2",
+    "Name": "test2",
+    "Author": "test2",
+    "Category": "test2",
+    "Language": "test2",
+    "PublicationDate": "2020-01-01T00:00:00",
+    "ISBN": "test2",
+    "Borrower": "test2",
+    "DueDate": "2020-02-01T00:00:00"
+  }
+]
